@@ -65,8 +65,8 @@ fullWidthContent
 
 aside
 {
-    position: fixed;
-    bottom: 300px;
+    position: bottom;
+    bottom: 600px;
     text-align: left;
     font-size: small;
     text-shadow: 2px 2px 5px gray;
